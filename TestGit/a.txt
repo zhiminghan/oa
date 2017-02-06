@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 aaaaaaaaaaaaaaa
+=======
+bbbbbbbbbbbbbbb
+cccccccccccccc
+>>>>>>> branch2
